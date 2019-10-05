@@ -1,0 +1,21 @@
+.flex {
+    display: flex;
+    flex: auto;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    cursor: pointer;
+    font-weight: bold;
+    margin: 0px 20px 0px 0px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu li:hover {
+    color: red;
+}
